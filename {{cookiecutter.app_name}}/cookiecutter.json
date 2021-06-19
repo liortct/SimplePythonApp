@@ -1,0 +1,6 @@
+{
+    "app_name": "{{ cookiecutter.app_name }}",
+    "project_name": "{{ cookiecutter.project_name }}",
+    "python_version": "{{ cookiecutter.python_version }}",
+    "replica": {{ cookiecutter.replica }}
+}
